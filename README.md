@@ -10,4 +10,4 @@ Este projeto, desenvolvido como parte do primeiro módulo do curso de Engenharia
 
 ## Tecnologias Utilizadas
 * **Python:** Linguagem de programação principal utilizada para o desenvolvimento do projeto.
-* **[Outras bibliotecas, se utilizadas]:** Liste aqui qualquer outra biblioteca Python utilizada, como Pandas, NumPy, etc.
+
